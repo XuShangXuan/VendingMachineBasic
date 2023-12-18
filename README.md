@@ -1,5 +1,8 @@
 # VendingMachineBasic
 
+## 應用技術Application Technology
+![N|Solid](https://raw.githubusercontent.com/XuShangXuan/VendingMachineBasic/main/READMEIMG/%E6%87%89%E7%94%A8%E6%8A%80%E8%A1%93.png)
+
 ## 資料庫關聯圖ERD
 ![N|Solid](https://raw.githubusercontent.com/XuShangXuan/VendingMachineBasic/main/READMEIMG/OracleERD.png)
 
